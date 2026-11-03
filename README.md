@@ -1,1 +1,5 @@
-### I am Harsh Gupta with 20 Years experiance in IT Infrastructure.
+# I am a dedicated and results-driven IT Infrastructure Professional with expertise in IT operations, infrastructure management, system administration, network support, and Multi-Cloud environments. Skilled in managing and maintaining IT infrastructure, troubleshooting hardware and software issues, server administration, network monitoring, and ensuring high availability, reliability, and security of IT services.
+
+I have a strong interest in cloud technologies and infrastructure modernization, with an understanding of multi-cloud environments and cloud infrastructure services across platforms such as AWS, Microsoft Azure, and Google Cloud Platform (GCP). I am passionate about implementing efficient IT solutions, optimizing infrastructure performance, maintaining business continuity, and adopting emerging technologies.
+
+With strong analytical, troubleshooting, and problem-solving abilities, I strive to deliver reliable, scalable, secure, and cost-effective IT infrastructure solutions while continuously enhancing my technical expertise..
